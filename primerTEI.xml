@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader> 
+    <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - Exordio</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Sofía Setuain</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+    </teiHeader>
+    <text>
+            <body>
+<pb n="16r"/>
+
+<head><foreign xml:lang="latin">Canendo et ludendo refero vera</foreign></head>
+
+<p>Si fuera cierta la opinión común, o llámese vulgar, que viajero y embustero son sinónimos, se debía preferir la lectura de la fábula a la de la historia. No se puede dudar, con razón, que la general extractó su principal fondo de los viajeros, y que algunas particulares se han escrito sobre la fe de sus relaciones. Las cifras de los peruleros en quipus, o nudos de varios colores, los jeroglíficos o pinturas de los mexicanos, la tradición de unos y otros, vertida en cuentos y cantares y otros monumentos corresponden (acaso con más pureza) a nuestros roídos pergaminos, carcomidos papeles, inscripciones sepulcrales, pirámides, estatuas, medallas y monedas, que por su antigüedad no merecen más crédito, porque así como no estorban las barbas   —24→   para llorar, no impiden las canas para mentir. Con estos aparatos y otros casi infinitos se escribieron todas las historias antiguas y modernas. Los eruditos ponen las primeras en la clase de las fábulas, y a las segundas las comparan a las predicciones de los astrólogos, con la diferencia de que éstos, como conferencian con los dioses, anuncian lo futuro, y aquéllos, no pudiendo consultar más que con los mortales, sólo hacen presentes los sucesos pasados.</p>
+
+<p>Supuesta, pues, la incertidumbre de la historia vuelvo a decir, se debe preferir la lectura y estudio de la fábula, porque siendo ella parto de una imaginación libre y desembarazada, influye y deleita más. El héroe que propone es, por lo general, de esclarecida estirpe, hábil, robusto, diligente y de agradable presencia. Insensiblemente le empeña en los lances de peligros. Le acusa sus descuidos y algunas veces los castiga con algún suceso adverso, para que el honor le corrija, y no el miedo. Jamás le desampara ni pierde de vista. En los lances y empresas en que no alcanzan las fuerzas humanas, ocurre a las divinas, por medio de las cuatro principales cartas de aquella celestial baraja.</p>
+
+    </body>
+</text>
+
+</TEI>
