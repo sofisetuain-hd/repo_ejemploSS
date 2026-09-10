@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader> 
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="llc_exordio">Fragmento de El lazarillo de ciegos caminantes - página m1</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Sofía Setuain</editor>  
+             </titleStmt>
+            <publicationStmt>
+                <publisher>Nombre de la asignatura</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+
+    </teiHeader>
+
+        <text>
+            <body>
+<pb n="m3"/>
+
+<p>distinguidos de <placeName key="mendoza">Mendoza</placeName>, <placeName key="sanjuandelafrontera">San Juan de la Frontera</placeName>, <placeName key="santiagodelestero">Santiago del Estero</placeName> y <placeName key="smtucuman">San Miguel del Tucumán</placeName>. Los primeros establecieron este género de trajín para dar expendio en <placeName key="plazamayor">Buenos Aires</placeName> y <placeName key="cordova">Córdoba</placeName> a los frutos sobrantes de sus haciendas, como vinos, aguardientes, harinas, <note xml:id="m3n1">orejones</note> y otras frutas, fletando el resto de sus buques a pasajeros y particulares, a un precio muy cómodo. Casi siempre se reduce el importe de estos frutos a efectos de la <placeName key="europa">Europa</placeName> para el gasto de sus casas y particulares comercios; pero como el valor de lo que conducen en veinte carretas se regresa en una o dos, fletan las demás al primer cargador que se presenta, por el precio contingente de la más o menos carga y número de carretas. Los segundos son aquellos que tienen menos posibles, y regularmente andan escasas las providencias, con atraso de los viajes; y los terceros son gente de arbitrio. Piden siempre los fletes adelantados y muchas veces al tiempo de la salida se aparece un acreedor que lo detiene, y se ven obligados los cargadores, no solamente a pagar por ellos, sino a suplir las necesidades del camino y otros contratiempos, por lo que es más conveniente y seguro pagar diez pesos más en cada carreta a los primeros.</p>
+
+    </body>
+    </text>
+</TEI>
